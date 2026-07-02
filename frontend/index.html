@@ -157,7 +157,7 @@
     class="bg-background text-on-surface h-screen w-screen overflow-hidden flex flex-col font-body-md antialiased radial-bg relative">
     <!-- TopAppBar -->
     <header
-        class="fixed top-0 left-0 w-full z-50 flex justify-between items-center px-container-padding h-16 bg-surface/40 dark:bg-surface-container/40 backdrop-blur-xl border-b border-white/5 shadow-sm">
+        class="flex-shrink-0 w-full z-50 flex justify-between items-center px-container-padding h-16 bg-surface/40 dark:bg-surface-container/40 backdrop-blur-xl border-b border-white/5 shadow-sm">
         <div class="flex items-center gap-3">
             <div
                 class="w-8 h-8 rounded-full bg-gradient-to-br from-tertiary to-secondary flex items-center justify-center shadow-lg glow-accent">
@@ -179,7 +179,7 @@
         </div>
     </header>
     <!-- Main Content Area -->
-    <main class="flex-1 mt-16 relative flex flex-col items-center">
+    <main class="flex-1 relative flex flex-col items-center min-h-0">
         <!-- Disclaimer Pill -->
         <div class="absolute top-6 left-1/2 -translate-x-1/2 z-40">
             <div class="glass-popover px-4 py-2 rounded-full flex items-center gap-2 shadow-xl fade-in-up"
