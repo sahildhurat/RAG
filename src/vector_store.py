@@ -1,18 +1,18 @@
 import os
 from langchain_chroma import Chroma
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# We will use HuggingFace BGE-m3 as per the architecture document.
-# For local execution, BAAI/bge-m3 or BAAI/bge-small-en-v1.5 are great choices.
-EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5" # Using small version to fit within Render free tier (512MB RAM)
+# We will use FastEmbed for extremely lightweight local embeddings (fits in 512MB RAM)
+EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5" # FastEmbed supports this model out of the box
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PERSIST_DIRECTORY = os.path.join(PROJECT_ROOT, "chroma_db")
 
 def get_embeddings_model():
-    return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
+    """Returns the lightweight FastEmbed embedding model instance."""
+    return FastEmbedEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
 def get_vector_store():
     """
