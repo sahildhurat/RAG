@@ -179,7 +179,7 @@
         </div>
     </header>
     <!-- Main Content Area -->
-    <main class="flex-1 mt-16 relative flex justify-center pb-[100px]">
+    <main class="flex-1 mt-16 relative flex flex-col items-center">
         <!-- Disclaimer Pill -->
         <div class="absolute top-6 left-1/2 -translate-x-1/2 z-40">
             <div class="glass-popover px-4 py-2 rounded-full flex items-center gap-2 shadow-xl fade-in-up"
@@ -191,7 +191,7 @@
         </div>
         <!-- Chat Container -->
         <div
-            class="w-full max-w-[720px] h-full flex flex-col px-4 md:px-0 pt-20 pb-4 overflow-y-auto chat-container scroll-smooth">
+            class="w-full max-w-[720px] flex-1 flex flex-col px-4 md:px-0 pt-20 pb-4 overflow-y-auto chat-container scroll-smooth">
             <!-- Empty State / Welcome -->
             <!-- <div class="flex flex-col items-center justify-center h-full gap-8 fade-in-up" style="animation-delay: 0.2s;">
                 <div class="text-center space-y-2">
@@ -234,12 +234,10 @@
                     </div>
                 </div>
             </div>
-            <!-- Dedicated Bottom Spacer for Fixed Input Dock -->
-            <div class="h-40 w-full flex-shrink-0"></div>
         </div>
         <!-- Input Dock -->
-        <div
-            class="fixed bottom-0 left-0 w-full p-container-padding flex justify-center pb-8 bg-gradient-to-t from-background via-background/90 to-transparent z-40 pointer-events-none">
+        <div class="w-full flex justify-center p-container-padding pb-8 flex-shrink-0 relative z-40">
+            <div class="absolute bottom-full left-0 w-full h-12 bg-gradient-to-t from-background to-transparent pointer-events-none"></div>
             <div class="w-full max-w-[720px] pointer-events-auto">
                 <div class="glass-popover p-2 pl-6 rounded-full flex items-center gap-4 shadow-2xl relative">
                     <input id="chat-input"
