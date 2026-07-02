@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+chromadb
+langchain-chroma
+beautifulsoup4
+python-dotenv
+sentence-transformers
+tenacity
+fastapi
+uvicorn
+pytest
+httpx

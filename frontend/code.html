@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Mutual Fund FAQ Assistant</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container": "#122131",
+                        "secondary-container": "#04b4a2",
+                        "on-tertiary-container": "#8c5ef8",
+                        "on-error-container": "#ffdad6",
+                        "surface-container-high": "#1c2b3c",
+                        "surface": "#051424",
+                        "secondary-fixed-dim": "#4fdbc8",
+                        "surface-container-lowest": "#010f1f",
+                        "on-surface": "#d4e4fa",
+                        "tertiary": "#d0bcff",
+                        "inverse-surface": "#d4e4fa",
+                        "on-tertiary-fixed": "#23005c",
+                        "on-tertiary": "#3c0091",
+                        "surface-variant": "#273647",
+                        "surface-dim": "#051424",
+                        "surface-tint": "#c3c6cf",
+                        "on-error": "#690005",
+                        "tertiary-container": "#160040",
+                        "primary": "#c3c6cf",
+                        "on-secondary-fixed-variant": "#005048",
+                        "secondary-fixed": "#71f8e4",
+                        "primary-fixed": "#dfe2eb",
+                        "error": "#ffb4ab",
+                        "on-secondary": "#003731",
+                        "surface-container-low": "#0d1c2d",
+                        "primary-fixed-dim": "#c3c6cf",
+                        "on-surface-variant": "#c6c6cb",
+                        "secondary": "#4fdbc8",
+                        "on-primary-container": "#797d85",
+                        "error-container": "#93000a",
+                        "outline": "#8f9095",
+                        "on-secondary-fixed": "#00201c",
+                        "on-secondary-container": "#003f38",
+                        "primary-container": "#0d1117",
+                        "surface-container-highest": "#273647",
+                        "inverse-on-surface": "#233143",
+                        "outline-variant": "#45474b",
+                        "surface-bright": "#2c3a4c",
+                        "on-primary": "#2d3137",
+                        "inverse-primary": "#5b5e66",
+                        "tertiary-fixed": "#e9ddff",
+                        "on-background": "#d4e4fa",
+                        "on-primary-fixed-variant": "#43474e",
+                        "tertiary-fixed-dim": "#d0bcff",
+                        "on-primary-fixed": "#181c22",
+                        "on-tertiary-fixed-variant": "#5516be",
+                        "background": "#051424"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "section-gap": "32px",
+                        "container-padding": "24px",
+                        "glass-padding": "20px",
+                        "message-gap": "16px",
+                        "unit": "8px"
+                    },
+                    "fontFamily": {
+                        "body-md": ["Outfit"],
+                        "headline-lg": ["Outfit"],
+                        "headline-xl": ["Outfit"],
+                        "body-lg": ["Outfit"],
+                        "label-sm": ["Outfit"],
+                        "headline-md": ["Outfit"],
+                        "label-md": ["Outfit"]
+                    },
+                    "fontSize": {
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "headline-xl": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "label-sm": ["12px", { "lineHeight": "16px", "fontWeight": "600" }],
+                        "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "600" }],
+                        "label-md": ["14px", { "lineHeight": "20px", "letterSpacing": "0.02em", "fontWeight": "500" }]
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .glass-panel {
+            background: rgba(30, 41, 59, 0.4);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .glass-popover {
+            background: rgba(30, 41, 59, 0.8);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+
+        .glow-accent {
+            box-shadow: 0px 0px 20px rgba(139, 92, 246, 0.3);
+        }
+
+        .radial-bg {
+            background: radial-gradient(circle at 100% 0%, rgba(140, 94, 248, 0.15) 0%, rgba(4, 180, 162, 0.1) 40%, rgba(5, 20, 36, 1) 100%);
+        }
+
+        .chat-container::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .chat-container::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .chat-container::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+            opacity: 0;
+            transform: translateY(10px);
+        }
+
+        @keyframes fadeInUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+
+<body
+    class="bg-background text-on-surface h-screen w-screen overflow-hidden flex flex-col font-body-md antialiased radial-bg relative">
+    <!-- TopAppBar -->
+    <header
+        class="fixed top-0 left-0 w-full z-50 flex justify-between items-center px-container-padding h-16 bg-surface/40 dark:bg-surface-container/40 backdrop-blur-xl border-b border-white/5 shadow-sm">
+        <div class="flex items-center gap-3">
+            <div
+                class="w-8 h-8 rounded-full bg-gradient-to-br from-tertiary to-secondary flex items-center justify-center shadow-lg glow-accent">
+                <span class="material-symbols-outlined text-surface-container-lowest"
+                    style="font-variation-settings: 'FILL' 1;">insights</span>
+            </div>
+            <h1 class="font-headline-md text-headline-md font-bold text-on-surface dark:text-on-surface">Mutual Fund FAQ
+                Assistant</h1>
+        </div>
+        <div class="flex items-center gap-4">
+            <button
+                class="w-10 h-10 rounded-full flex items-center justify-center hover:bg-white/10 transition-colors text-secondary dark:text-secondary-fixed-dim">
+                <span class="material-symbols-outlined">help</span>
+            </button>
+            <button
+                class="w-10 h-10 rounded-full flex items-center justify-center hover:bg-white/10 transition-colors text-secondary dark:text-secondary-fixed-dim">
+                <span class="material-symbols-outlined">account_circle</span>
+            </button>
+        </div>
+    </header>
+    <!-- Main Content Area -->
+    <main class="flex-1 mt-16 relative flex justify-center pb-[100px]">
+        <!-- Disclaimer Pill -->
+        <div class="absolute top-6 left-1/2 -translate-x-1/2 z-40">
+            <div class="glass-popover px-4 py-2 rounded-full flex items-center gap-2 shadow-xl fade-in-up"
+                style="animation-delay: 0.1s;">
+                <span class="text-[14px]">⚠️</span>
+                <span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Facts-only.
+                    No investment advice.</span>
+            </div>
+        </div>
+        <!-- Chat Container -->
+        <div
+            class="w-full max-w-[720px] h-full flex flex-col px-4 md:px-0 pt-20 pb-4 overflow-y-auto chat-container scroll-smooth">
+            <!-- Empty State / Welcome -->
+            <!-- <div class="flex flex-col items-center justify-center h-full gap-8 fade-in-up" style="animation-delay: 0.2s;">
+                <div class="text-center space-y-2">
+                    <div class="w-16 h-16 rounded-2xl bg-surface-container-highest border border-white/10 mx-auto flex items-center justify-center mb-4">
+                         <span class="material-symbols-outlined text-3xl text-secondary-fixed-dim">query_stats</span>
+                    </div>
+                    <h2 class="font-headline-lg text-headline-lg text-on-surface">How can I help you today?</h2>
+                    <p class="font-body-md text-body-md text-on-surface-variant">Ask me anything about our mutual funds.</p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-full">
+                    <button class="glass-panel p-glass-padding rounded-xl text-left hover:bg-surface-container-high transition-all group border border-white/5 hover:border-secondary/30 relative overflow-hidden">
+                        <div class="absolute inset-0 bg-gradient-to-br from-secondary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                        <span class="material-symbols-outlined text-secondary mb-3">trending_down</span>
+                        <p class="font-label-md text-label-md text-on-surface group-hover:text-secondary-fixed transition-colors">What is the exit load for Parag Parikh Flexi Cap Fund?</p>
+                    </button>
+                    <button class="glass-panel p-glass-padding rounded-xl text-left hover:bg-surface-container-high transition-all group border border-white/5 hover:border-tertiary/30 relative overflow-hidden">
+                         <div class="absolute inset-0 bg-gradient-to-br from-tertiary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                        <span class="material-symbols-outlined text-tertiary mb-3">savings</span>
+                        <p class="font-label-md text-label-md text-on-surface group-hover:text-tertiary-fixed transition-colors">What is the minimum SIP amount for Axis Silver FoF?</p>
+                    </button>
+                    <button class="glass-panel p-glass-padding rounded-xl text-left hover:bg-surface-container-high transition-all group border border-white/5 hover:border-secondary/30 relative overflow-hidden">
+                         <div class="absolute inset-0 bg-gradient-to-br from-secondary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                        <span class="material-symbols-outlined text-secondary mb-3">download</span>
+                        <p class="font-label-md text-label-md text-on-surface group-hover:text-secondary-fixed transition-colors">How can I download the capital gains report?</p>
+                    </button>
+                </div>
+            </div> -->
+            <!-- Chat Messages Flow -->
+            <div id="chat-messages" class="flex flex-col gap-section-gap w-full pb-section-gap">
+                <!-- Assistant Message -->
+                <div class="flex gap-4 fade-in-up" style="animation-delay: 0.1s;">
+                    <div
+                        class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center">
+                        <span class="material-symbols-outlined text-secondary text-sm">smart_toy</span>
+                    </div>
+                    <div class="glass-panel p-glass-padding rounded-2xl rounded-tl-sm max-w-[85%]">
+                        <p class="font-body-md text-body-md text-on-surface">Hello! I can provide factual information
+                            about our 10 mutual funds. How can I help you today?</p>
+                    </div>
+                </div>
+                <!-- User Message -->
+                <div class="flex gap-4 flex-row-reverse fade-in-up" style="animation-delay: 0.2s;">
+                    <div
+                        class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center overflow-hidden">
+                        <img class="w-full h-full object-cover"
+                            data-alt="A macro shot of a sleek, minimalist user avatar placeholder image in a modern UI context. The background is a dark slate color, and the avatar itself is a simple geometric form illuminated by a soft, ethereal teal light source, conveying a sense of premium digital identity."
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuCNdUigWU2PcENbU9qT0DONdpDsEco9ra3w_v12UekoxLtwNiUffEKsgz6rt7LUzZnEtmGFftWiWaUroiVJfyNgUib0Q4yjGp2OKkxEqT_p-jLjtvk-OvFs_jSpyTPEy_-yVd9PUc3p_yJnaOTCF9B2VhbjpCUNnlxaFUOw0nIcJJpG-pVHrbFYQzyhAxWyPTBDSAMYlv8bae7atzHFqccAigguKbr5y8CUglsqp3Z9vk0X_W3bgLAdWkGEyshLlA1h0Ol6-3kr_A0" />
+                    </div>
+                    <div class="p-glass-padding rounded-2xl rounded-tr-sm max-w-[85%] relative overflow-hidden">
+                        <div class="absolute inset-0 bg-[rgba(139,92,246,0.2)]"></div>
+                        <p class="font-body-md text-body-md text-on-surface relative z-10">Tell me about Parag Parikh
+                            Flexi Cap.</p>
+                    </div>
+                </div>
+                <!-- Assistant Detailed Message -->
+                <div class="flex gap-4 fade-in-up" style="animation-delay: 0.3s;">
+                    <div
+                        class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center">
+                        <span class="material-symbols-outlined text-secondary text-sm">smart_toy</span>
+                    </div>
+                    <div class="glass-panel p-glass-padding rounded-2xl rounded-tl-sm max-w-[85%] space-y-4">
+                        <p class="font-body-md text-body-md text-on-surface">The Parag Parikh Flexi Cap Fund is an
+                            open-ended dynamic equity scheme investing across large cap, mid cap, and small cap stocks.
+                            It aims to generate long-term capital growth from an actively managed portfolio primarily of
+                            equity and equity-related securities.</p>
+                        <div class="glass-popover p-4 rounded-xl flex items-start gap-4">
+                            <div
+                                class="w-8 h-8 rounded-full bg-secondary/10 flex items-center justify-center flex-shrink-0">
+                                <span class="material-symbols-outlined text-secondary text-sm">trending_up</span>
+                            </div>
+                            <div>
+                                <h4 class="font-label-md text-label-md text-secondary-fixed">Key Highlights</h4>
+                                <ul class="font-label-sm text-label-sm text-on-surface-variant mt-1 space-y-1">
+                                    <li>• Benchmark: NIFTY 500 TRI</li>
+                                    <li>• Exit Load: 2% if redeemed within 365 days.</li>
+                                    <li>• Minimum SIP: ₹1,000</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap gap-2 pt-2 border-t border-white/5">
+                            <div
+                                class="bg-surface-container-high px-3 py-1 rounded-full border border-white/10 flex items-center gap-1.5 cursor-help group">
+                                <span class="material-symbols-outlined text-[14px] text-tertiary">description</span>
+                                <span
+                                    class="font-label-sm text-label-sm text-on-surface-variant group-hover:text-on-surface transition-colors">Source:
+                                    Fund Prospectus 2024</span>
+                            </div>
+                            <div
+                                class="bg-surface-container-high px-3 py-1 rounded-full border border-white/10 flex items-center gap-1.5 cursor-help group">
+                                <span class="material-symbols-outlined text-[14px] text-outline">update</span>
+                                <span
+                                    class="font-label-sm text-label-sm text-on-surface-variant group-hover:text-on-surface transition-colors">Last
+                                    updated: 2026-07-01</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Feedback Chips / Follow-ups -->
+                <div class="flex gap-2 pl-14 fade-in-up" style="animation-delay: 0.4s;">
+                    <button
+                        class="glass-popover px-4 py-2 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-white/10 transition-all border border-white/10 hover:border-secondary/50 glow-accent-hover">Show
+                        Exit Load details</button>
+                    <button
+                        class="glass-popover px-4 py-2 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface hover:bg-white/10 transition-all border border-white/10 hover:border-tertiary/50">Compare
+                        with Axis</button>
+                </div>
+            </div>
+        </div>
+        <!-- Input Dock -->
+        <div
+            class="fixed bottom-0 left-0 w-full p-container-padding flex justify-center pb-8 bg-gradient-to-t from-background via-background/90 to-transparent z-40 pointer-events-none">
+            <div class="w-full max-w-[720px] pointer-events-auto">
+                <div class="glass-popover p-2 pl-6 rounded-full flex items-center gap-4 shadow-2xl relative">
+                    <input id="chat-input"
+                        class="flex-1 bg-transparent border-none text-on-surface font-body-md focus:ring-0 placeholder:text-on-surface-variant/50 h-10 w-full"
+                        placeholder="Ask about mutual funds..." style="caret-color: #04b4a2;" type="text" />
+                    <button id="send-btn"
+                        class="w-12 h-12 rounded-full bg-gradient-to-r from-on-tertiary-container to-secondary-container flex items-center justify-center flex-shrink-0 hover:scale-105 transition-transform shadow-lg glow-accent">
+                        <span class="material-symbols-outlined text-surface-container-lowest"
+                            style="font-variation-settings: 'FILL' 1;">send</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const chatContainer = document.querySelector('.chat-container');
+            const chatMessages = document.getElementById('chat-messages');
+            const chatInput = document.getElementById('chat-input');
+            const sendBtn = document.getElementById('send-btn');
+            
+            function scrollToBottom() {
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+            scrollToBottom();
+
+            async function sendMessage() {
+                const query = chatInput.value.trim();
+                if (!query) return;
+                
+                // Add user message to UI
+                const userMsg = `
+                <div class="flex gap-4 flex-row-reverse fade-in-up" style="animation-delay: 0.1s;">
+                    <div class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center overflow-hidden">
+                        <span class="material-symbols-outlined text-secondary">person</span>
+                    </div>
+                    <div class="p-glass-padding rounded-2xl rounded-tr-sm max-w-[85%] relative overflow-hidden">
+                        <div class="absolute inset-0 bg-[rgba(139,92,246,0.2)]"></div>
+                        <p class="font-body-md text-body-md text-on-surface relative z-10">${query}</p>
+                    </div>
+                </div>`;
+                chatMessages.insertAdjacentHTML('beforeend', userMsg);
+                chatInput.value = '';
+                scrollToBottom();
+
+                // Add loading state
+                const loadingId = 'loading-' + Date.now();
+                const loadingMsg = `
+                <div id="${loadingId}" class="flex gap-4 fade-in-up" style="animation-delay: 0.1s;">
+                    <div class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center">
+                        <span class="material-symbols-outlined text-secondary text-sm">smart_toy</span>
+                    </div>
+                    <div class="glass-panel p-glass-padding rounded-2xl rounded-tl-sm max-w-[85%]">
+                        <p class="font-body-md text-body-md text-on-surface">Thinking...</p>
+                    </div>
+                </div>`;
+                chatMessages.insertAdjacentHTML('beforeend', loadingMsg);
+                scrollToBottom();
+
+                // Make API request
+                try {
+                    const response = await fetch("http://localhost:8000/chat", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ query: query })
+                    });
+                    const data = await response.json();
+                    
+                    document.getElementById(loadingId).remove();
+                    
+                    const assistantMsg = `
+                    <div class="flex gap-4 fade-in-up" style="animation-delay: 0.1s;">
+                        <div class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center">
+                            <span class="material-symbols-outlined text-secondary text-sm">smart_toy</span>
+                        </div>
+                        <div class="glass-panel p-glass-padding rounded-2xl rounded-tl-sm max-w-[85%] space-y-4">
+                            <p class="font-body-md text-body-md text-on-surface">${data.response}</p>
+                        </div>
+                    </div>`;
+                    chatMessages.insertAdjacentHTML('beforeend', assistantMsg);
+                    scrollToBottom();
+                } catch (error) {
+                    document.getElementById(loadingId).remove();
+                    const errorMsg = `
+                    <div class="flex gap-4 fade-in-up" style="animation-delay: 0.1s;">
+                        <div class="w-10 h-10 rounded-full bg-surface-container border border-white/10 flex-shrink-0 flex items-center justify-center">
+                            <span class="material-symbols-outlined text-error text-sm">error</span>
+                        </div>
+                        <div class="glass-panel p-glass-padding rounded-2xl rounded-tl-sm max-w-[85%] border-error/50">
+                            <p class="font-body-md text-body-md text-error">Error connecting to the server.</p>
+                        </div>
+                    </div>`;
+                    chatMessages.insertAdjacentHTML('beforeend', errorMsg);
+                    scrollToBottom();
+                }
+            }
+
+            sendBtn.addEventListener('click', sendMessage);
+            chatInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') sendMessage();
+            });
+        });
+    </script>
+</body>
+
+</html>

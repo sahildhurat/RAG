@@ -1,0 +1,43 @@
+name: Scheduled Data Ingestion
+
+on:
+  schedule:
+    # 18:30 UTC = 00:00 IST (midnight) — refresh data before next business day
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from the GitHub Actions UI
+
+jobs:
+  ingest:
+    name: Scrape, Chunk & Embed Fund Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed for the auto-commit/push step
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'  # cache pip dependencies for faster runs
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ingestion pipeline
+        run: python -m src.ingest
+
+      - name: Commit & push updated vector store
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add chroma_db/ ingested_data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit — vector store is already up to date."
+          else
+            git commit -m "chore: refresh vector store with latest fund data [automated]"
+            git push
+          fi
