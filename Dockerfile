@@ -14,7 +14,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy source code and pre-built vector store
 COPY src/ ./src/
 COPY chroma_db/ ./chroma_db/
-COPY .env.example ./.env.example
 
 # Expose Render's expected port
 EXPOSE 10000
