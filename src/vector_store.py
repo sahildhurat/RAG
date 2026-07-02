@@ -8,7 +8,8 @@ load_dotenv()
 # We will use HuggingFace BGE-m3 as per the architecture document.
 # For local execution, BAAI/bge-m3 or BAAI/bge-small-en-v1.5 are great choices.
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5" # Using base version for better retrieval quality on small corpus
-PERSIST_DIRECTORY = "./chroma_db"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PERSIST_DIRECTORY = os.path.join(PROJECT_ROOT, "chroma_db")
 
 def get_embeddings_model():
     return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)

@@ -1,0 +1,23 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system deps for chromadb (SQLite)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy source code and pre-built vector store
+COPY src/ ./src/
+COPY chroma_db/ ./chroma_db/
+COPY .env.example ./.env.example
+
+# Expose Render's expected port
+EXPOSE 10000
+
+# Run the FastAPI server
+CMD ["uvicorn", "src.api:app", "--host", "0.0.0.0", "--port", "10000"]

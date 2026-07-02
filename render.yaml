@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: rag-backend
+    runtime: docker
+    plan: free
+    branch: main
+    healthCheckPath: /health
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false  # Set manually in Render dashboard

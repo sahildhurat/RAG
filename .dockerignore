@@ -1,0 +1,12 @@
+.git
+.github
+__pycache__
+*.pyc
+.env
+.pytest_cache
+tests/
+docs/
+frontend/
+ingested_data/
+*.md
+app.py
