@@ -1,6 +1,6 @@
 Source: https://groww.in/mutual-funds/pgim-india-emerging-markets-equity-fof-direct-growth
 Total Chunks: 14
-Last Updated: 2026-07-03
+Last Updated: 2026-07-04
 ================================================================================
 
 --- Chunk 1 ---
@@ -10,7 +10,7 @@ PGIM India Emerging Markets Equity Fo F Direct Growth - NAV, Mutual Fund Perform
 . for SIP₹1,000Fund size (AUM)₹1,490.48 Cr Expense ratio0.54%Rating--Return calculator Monthly SIPMonthly investment₹5,000Over the past Total investment Would've become Historic returns Returns1 year₹60,000 ₹76,067+26.78%3 years₹1,80,000 ₹2,92,677+62.60%5 years₹3,00,000 ₹5,09,003+69.67%10 years₹6,00,000 ₹10,89,627+81.60%Holdings (3)Name Sector Instruments Assets PGIM Jennison Emerging Markets Equity Fund Unspecified Foreign Mutual Funds97.40%Others CBLOUnspecified CBLO2.07%Net Receivables Unspecified Net Receivables0.53%Minimum investments Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min
 
 --- Chunk 3 ---
-. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP₹1,000Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name3Y5Y10YAll Fund returns+28.7%+3.9%+9.0%+7.4%Category average (Equity International)+23.8%+11.0%+11.5%--Rank (Equity International)143821--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
+. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP₹1,000Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name3Y5Y10YAll Fund returns+28.7%+3.9%+9.0%+7.4%Category average (Equity International)+23.8%+11.0%+11.5%--Rank (Equity International)143423--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
 
 --- Chunk 4 ---
 . It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
