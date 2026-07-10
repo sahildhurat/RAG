@@ -1,68 +1,65 @@
 Source: https://groww.in/mutual-funds/uti-nifty-500-value-50-index-fund-direct-growth
-Total Chunks: 21
-Last Updated: 2026-07-09
+Total Chunks: 20
+Last Updated: 2026-07-10
 ================================================================================
 
 --- Chunk 1 ---
-UTI Nifty 500 Value 50 Index Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio UTI Nifty 500 Value 50 Index Fund Direct Growth Equity Value Oriented Very High Risk+26.27%3Y annualised-1.80% 1D1M6M1Y3YAll NAV: 09 Jul '26 ₹22.07Min
+UTI Nifty 500 Value 50 Index Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio UTI Nifty 500 Value 50 Index Fund Direct Growth Equity Value Oriented Very High Risk+26.50%3Y annualised+0.62% 1D1M6M1Y3YAll NAV: 10 Jul '26 ₹22.31Min
 
 --- Chunk 2 ---
-. for SIP₹500Fund size (AUM)₹774.96 Cr Expense ratio0.84%Rating5Return calculator Monthly SIPOne time Monthly investment₹5,000Over the past Total investment Would've become Historic returns Returns3 months₹15,000 ₹15,237+1.58%6 months₹30,000 ₹31,190+3.97%1 year₹60,000 ₹65,916+9.86%3 years₹1,80,000 ₹2,37,932+32.18%Holdings (55)Name Sector Instruments Assets Hindalco Industries Ltd Materials Equity5.94%Tata Steel Ltd Materials Equity5.66%NTPC Ltd Energy & Utilities Equity5.50%Coal India Ltd Materials Equity5.24%Oil & Natural Gas Corporation Ltd Energy & Utilities Equity5.21%Grasim Industries Ltd Materials Equity5.10%Tata Motors Ltd Consumer Discretionary Equity5.06%Power Grid Corporation of India Ltd Energy & Utilities Equity5.04%State Bank of India Financial Equity4.60%Bharat Petroleum
+. for SIP₹500Fund size (AUM)₹774.96 Cr Expense ratio0.84%Rating5Return calculator Monthly SIPOne time Monthly investment₹5,000Over the past Total investment Would've become Historic returns Returns3 months₹15,000 ₹15,237+1.58%6 months₹30,000 ₹31,190+3.97%1 year₹60,000 ₹65,916+9.86%3 years₹1,80,000 ₹2,37,932+32.18%Holdings (52)Name Sector Instruments Assets Tata Motors Ltd Consumer Discretionary Equity5.10%NTPC Ltd Energy & Utilities Equity5.06%Coal India Ltd Materials Equity5.04%Vedanta Ltd Materials Equity5.04%State Bank of India Financial Equity5.03%Grasim Industries Ltd Materials Equity5.02%Power Grid Corporation of India Ltd Energy & Utilities Equity4.99%Hindalco Industries Ltd Materials Equity4.96%Oil & Natural Gas Corporation Ltd Energy & Utilities Equity4.96%Bharat Petroleum
 
 --- Chunk 3 ---
-Discretionary Equity5.06%Power Grid Corporation of India Ltd Energy & Utilities Equity5.04%State Bank of India Financial Equity4.60%Bharat Petroleum Corporation Ltd Energy & Utilities Equity3.13%Power Finance Corporation Ltd Financial Equity3.13%Indian Oil Corporation Ltd Energy & Utilities Equity3.11%Vedanta Ltd Materials Equity2.70%Hindustan Petroleum Corporation Ltd Energy & Utilities Equity2.28%National Aluminium Company Ltd Materials Equity2.02%Steel Authority Of India Ltd Materials Equity1.92%Aster DM Healthcare Ltd Healthcare Equity1.89%Bank Of Baroda Financial Equity1.82%GAIL (India) Ltd Energy & Utilities Equity1.82%REC Ltd Financial Equity1.75%Indusind Bank Ltd Financial Equity1.75%NMDC Ltd Materials Equity1.65%Canara Bank Financial Equity1.49%The Federal Bank Ltd Financial
+& Utilities Equity4.99%Hindalco Industries Ltd Materials Equity4.96%Oil & Natural Gas Corporation Ltd Energy & Utilities Equity4.96%Bharat Petroleum Corporation Ltd Energy & Utilities Equity4.01%Indian Oil Corporation Ltd Energy & Utilities Equity3.53%Power Finance Corporation Ltd Financial Equity3.04%Hindustan Petroleum Corporation Ltd Energy & Utilities Equity2.62%Aster DM Healthcare Ltd Healthcare Equity2.51%GAIL (India) Ltd Energy & Utilities Equity2.19%REC Ltd Financial Equity2.17%Bank Of Baroda Financial Equity2.16%Redington Ltd Technology Equity2.07%NMDC Ltd Materials Equity1.97%UPL Ltd Materials Equity1.81%Canara Bank Financial Equity1.75%Indusind Bank Ltd Financial Equity1.68%Punjab National Bank Financial Equity1.56%Steel Authority Of India Ltd Materials Equity1.55%National
 
 --- Chunk 4 ---
-Equity1.75%Indusind Bank Ltd Financial Equity1.75%NMDC Ltd Materials Equity1.65%Canara Bank Financial Equity1.49%The Federal Bank Ltd Financial Equity1.38%UPL Ltd Materials Equity1.33%Redington Ltd Technology Equity1.27%Union Bank of India Financial Equity1.26%Punjab National Bank Financial Equity1.24%Oil India Ltd Energy & Utilities Equity0.95%The Great Eastern Shipping Company Ltd Energy & Utilities Equity0.93%Vedanta Power Ltd Industrials Equity0.89%Vedanta Oil and Gas Ltd Energy & Utilities Equity0.89%Vedanta Aluminium Metal Ltd Materials Equity0.89%Vedanta Iron And Steel Ltd Materials Equity0.89%Petronet LNG Ltd Energy & Utilities Equity0.78%Indian Bank Financial Equity0.73%Karur Vysya Bank Ltd Financial Equity0.72%Bank of India Financial Equity0.63%LIC Housing Finance Ltd Financial
+Bank Ltd Financial Equity1.68%Punjab National Bank Financial Equity1.56%Steel Authority Of India Ltd Materials Equity1.55%National Aluminium Company Ltd Materials Equity1.54%The Federal Bank Ltd Financial Equity1.51%Union Bank of India Financial Equity1.30%The Great Eastern Shipping Company Ltd Energy & Utilities Equity1.19%IRB Infrastructure Developers Ltd Industrials Equity0.93%Zee Entertainment Enterprises Ltd Consumer Discretionary Equity0.91%Reliance Power Ltd Energy & Utilities Equity0.91%Indian Bank Financial Equity0.88%Petronet LNG Ltd Energy & Utilities Equity0.86%Bank of India Financial Equity0.83%Oil India Ltd Energy & Utilities Equity0.82%LIC Housing Finance Ltd Financial Equity0.77%Tata Chemicals Ltd Materials Equity0.76%Adani Wilmar Ltd Consumer Staples Equity0.74%CESC Ltd
 
 --- Chunk 5 ---
-Bank Financial Equity0.73%Karur Vysya Bank Ltd Financial Equity0.72%Bank of India Financial Equity0.63%LIC Housing Finance Ltd Financial Equity0.62%CESC Ltd Energy & Utilities Equity0.60%Bandhan Bank Ltd Financial Equity0.59%Tata Chemicals Ltd Materials Equity0.58%IRB Infrastructure Developers Ltd Industrials Equity0.54%Zee Entertainment Enterprises Ltd Consumer Discretionary Equity0.52%RBL Bank Ltd Financial Equity0.50%Bank of Maharashtra Financial Equity0.46%Reliance Power Ltd Energy & Utilities Equity0.44%Cholamandalam Financial Holdings Ltd Financial Equity0.43%NCC Ltd Industrials Equity0.41%Chambal Fertilisers & Chemicals Ltd Materials Equity0.36%Indiabulls Housing Finance Ltd Financial Equity0.36%Manappuram Finance Ltd Financial Equity0.36%Net Current Assets Unspecified Net Current
+Equity0.82%LIC Housing Finance Ltd Financial Equity0.77%Tata Chemicals Ltd Materials Equity0.76%Adani Wilmar Ltd Consumer Staples Equity0.74%CESC Ltd Energy & Utilities Equity0.73%Karur Vysya Bank Ltd Financial Equity0.66%Jaiprakash Power Ventures Ltd Energy & Utilities Equity0.63%NCC Ltd Industrials Equity0.62%Cholamandalam Financial Holdings Ltd Financial Equity0.59%Cyient Ltd Technology Equity0.56%Bandhan Bank Ltd Financial Equity0.49%Chambal Fertilisers & Chemicals Ltd Materials Equity0.48%Bank of Maharashtra Financial Equity0.44%Indraprastha Gas Ltd Energy & Utilities Equity0.37%Castrol India Ltd Materials Equity0.29%Reliance Infrastructure Ltd Industrials Equity0.25%RBL Bank Ltd Financial Equity0.20%Net Payables Unspecified Net Payables-0.08%See All Minimum investments Min
 
 --- Chunk 6 ---
-Equity0.36%Indiabulls Housing Finance Ltd Financial Equity0.36%Manappuram Finance Ltd Financial Equity0.36%Net Current Assets Unspecified Net Current Assets0.23%Reliance Infrastructure Ltd Industrials Equity0.20%Mahanagar Gas Ltd Energy & Utilities Equity0.19%See All Minimum investments Min
+. for 1st investment₹1,000Min. for 2nd investment₹1,000Min. for SIP₹500Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns+3.9%+12.6%+26.5%+28.4%Category average (Equity Value Oriented)+2.6%+4.8%+19.2%--Rank (Equity Value Oriented)--61--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
 
 --- Chunk 7 ---
-. for 1st investment₹1,000Min. for 2nd investment₹1,000Min. for SIP₹500Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns+2.7%+11.1%+26.3%+28.2%Category average (Equity Value Oriented)+2.6%+4.8%+19.2%--Rank (Equity Value Oriented)--61--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
-
---- Chunk 8 ---
 . Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp duty A form of tax payable for the purchase or sale of an asset or security.Exit Load26 Apr 2023--Exit load, stamp duty and tax Exit load Nil Stamp duty on investment: 0.005% (from July 1st, 2020)from July 1st 2020Tax implication If you redeem within one year, returns are taxed at 20%
 
---- Chunk 9 ---
+--- Chunk 8 ---
 . If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.Check past data Fund management SKGSharwan Kumar Goyal Apr 2023 - Present View details Education Mr.Goyal is B.Com, CFA and MMS.Experience He began his career with UTI in June 2006 and has 15 years of overall experience in Risk / Fund management
 
---- Chunk 10 ---
+--- Chunk 9 ---
 . Presently he is working as Equity Fund Manager.Also manages these schemes UTI Multi Asset Allocation Fund Direct Growth UTI Nifty 50 Index Fund Direct Growth UTI Quant Fund Direct Growth UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund Direct Growth UTI Nifty India Manufacturing Index Fund Direct Growth UTI Nifty500 Shariah Index Fund Direct Growth UTI Nifty200 Momentum 30 Index Fund Direct Growth UTI BSE Sensex Index Fund Direct Growth UTI BSE Low Volatility Index Fund Direct Growth UTI Nifty Midcap 150 Quality 50 Index Fund Direct Growth UTI Gold ETF Fo F Direct Growth UTI Silver ETF Fo F Direct Growth UTI Nifty 500 Value 50 Index Fund Direct Growth UTI NIFTY50 Equal Weight Index Fund Direct Growth UTI BSE Housing Index Fund Direct Growth UTI Nifty200 Quality 30 Index Fund
 
---- Chunk 11 ---
+--- Chunk 10 ---
 Fund Direct Growth UTI NIFTY50 Equal Weight Index Fund Direct Growth UTI BSE Housing Index Fund Direct Growth UTI Nifty200 Quality 30 Index Fund Direct Growth UTI Nifty Private Bank Index Fund Direct Growth UTI Nifty Alpha Low Volatility 30 Index Fund Direct Growth UTI Nifty Midcap 150 Index Fund Direct Growth UTI Arbitrage Fund Direct Growth UTI Nifty Next 50 Index Fund Direct Growth AJAyush Jain Apr 2023 - Present View details Education Mr
 
---- Chunk 12 ---
+--- Chunk 11 ---
 . Jain is B.Com, C.A and CFA (level 1).Experience Prior to joining UTI Mutual Fund
 
---- Chunk 13 ---
+--- Chunk 12 ---
 , he has worked with PMS and Anand Saklecha & Co..Also manages these schemes UTI Nifty 50 Index Fund Direct Growth UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund Direct Growth UTI Nifty India Manufacturing Index Fund Direct Growth UTI Nifty500 Shariah Index Fund Direct Growth UTI Nifty200 Momentum 30 Index Fund Direct Growth UTI BSE Sensex Index Fund Direct Growth UTI BSE Low Volatility Index Fund Direct Growth UTI Nifty Midcap 150 Quality 50 Index Fund Direct Growth UTI Gold ETF Fo F Direct Growth UTI Silver ETF Fo F Direct Growth UTI Nifty 500 Value 50 Index Fund Direct Growth UTI NIFTY50 Equal Weight Index Fund Direct Growth UTI BSE Housing Index Fund Direct Growth UTI Nifty200 Quality 30 Index Fund Direct Growth UTI Nifty Private Bank Index Fund Direct Growth UTI Nifty Alpha
 
---- Chunk 14 ---
+--- Chunk 13 ---
 BSE Housing Index Fund Direct Growth UTI Nifty200 Quality 30 Index Fund Direct Growth UTI Nifty Private Bank Index Fund Direct Growth UTI Nifty Alpha Low Volatility 30 Index Fund Direct Growth UTI Nifty Midcap 150 Index Fund Direct Growth UTI Nifty Next 50 Index Fund Direct Growth LKLokesh Kulthia Jun 2026 - Present View details Education BCom (Hons)
 
---- Chunk 15 ---
+--- Chunk 14 ---
 , MBA (Finance), PGPFMExperience Mr
 
---- Chunk 16 ---
+--- Chunk 15 ---
 . Kulthia is associated with Equity Research team as a Manager since the year 2021. He joined UTI AMC as Assistance Manager at Dept of Sales
 
---- Chunk 17 ---
+--- Chunk 16 ---
 . He has over 4 years of experience in the field of Research.Also manages these schemes UTI Multi Asset Allocation Fund Direct Growth UTI Nifty 50 Index Fund Direct Growth UTI Quant Fund Direct Growth UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund Direct Growth UTI Nifty India Manufacturing Index Fund Direct Growth UTI Nifty500 Shariah Index Fund Direct Growth UTI Nifty200 Momentum 30 Index Fund Direct Growth UTI BSE Sensex Index Fund Direct Growth UTI BSE Low Volatility Index Fund Direct Growth UTI Nifty Midcap 150 Quality 50 Index Fund Direct Growth UTI Gold ETF Fo F Direct Growth UTI Silver ETF Fo F Direct Growth UTI Nifty 500 Value 50 Index Fund Direct Growth UTI NIFTY50 Equal Weight Index Fund Direct Growth UTI BSE Housing Index Fund Direct Growth UTI Nifty200 Quality 30
 
---- Chunk 18 ---
+--- Chunk 17 ---
 Value 50 Index Fund Direct Growth UTI NIFTY50 Equal Weight Index Fund Direct Growth UTI BSE Housing Index Fund Direct Growth UTI Nifty200 Quality 30 Index Fund Direct Growth UTI Nifty Private Bank Index Fund Direct Growth UTI Nifty Alpha Low Volatility 30 Index Fund Direct Growth UTI Nifty Midcap 150 Index Fund Direct Growth UTI Nifty Next 50 Index Fund Direct Growth About UTI Nifty 500 Value 50 Index Fund Direct Growth UTI Nifty 500 Value 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by UTI Mutual Fund
 
---- Chunk 19 ---
-. This scheme was made available to investors on 14 Nov 2002. Sharwan Kumar Goyal is the Current Fund Manager of UTI Nifty 500 Value 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,94,739 Cr and the Latest NAV as of 09 Jul 2026 is ₹22.07. The UTI Nifty 500 Value 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹1,000
+--- Chunk 18 ---
+. This scheme was made available to investors on 14 Nov 2002. Sharwan Kumar Goyal is the Current Fund Manager of UTI Nifty 500 Value 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹3,94,739 Cr and the Latest NAV as of 10 Jul 2026 is ₹22.31. The UTI Nifty 500 Value 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹1,000
 
---- Chunk 20 ---
+--- Chunk 19 ---
 . Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹1,000. ;Investment Objective The Scheme seeeks to provide returns that, before expenses, corresponds to the total return of the securities as represented by the underlying index, subject to tracking error.Fund benchmark Nifty 500 Value 50 Total Return Index Scheme Information Document(SID)Fund house UTI Mutual Fund Rank (total assets)#8 in India Total AUM₹3,94,738.74 Cr Date of Incorporation14 Nov 2002Phone0263 2296993E-mail--Websitehttp://www.utimf.com Launch Date14 Nov 2002Address UTI Tower, Plot C-1, GN Block,Banrda Kurla Complex, Bandra (East) Mumbai 400051Custodian--Registrar & Transfer Agent KFin Tech Email[email protected]Websitewww.karvymfs.com Address Karvy House, No
 
---- Chunk 21 ---
+--- Chunk 20 ---
 . 46, 8-2-609/K, Avenue 4, Street No.1 Banjara Hills,Home>Mutual Funds>UTI Mutual Fund>UTI Nifty 500 Value 50 Index Fund Direct Growth
 
