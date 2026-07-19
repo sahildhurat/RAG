@@ -1,13 +1,13 @@
 Source: https://groww.in/mutual-funds/pgim-india-emerging-markets-equity-fof-direct-growth
 Total Chunks: 13
-Last Updated: 2026-07-18
+Last Updated: 2026-07-19
 ================================================================================
 
 --- Chunk 1 ---
-PGIM India Emerging Markets Equity Fo F Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan PGIM India Emerging Markets Equity Fo F Direct Growth Equity International Very High Risk+24.96%3Y annualised-2.97% 1D1M6M1Y3Y5YAll NAV: 17 Jul '26 ₹24.44Min. for SIPNot Supported Fund size (AUM)₹1,477.58 Cr Expense ratio0.54%Rating--Holdings (3)Name Sector Instruments Assets PGIM Jennison Emerging Markets Equity Fund Unspecified Foreign Mutual Funds96.08%Others CBLOUnspecified CBLO4.07%Net Payables Unspecified Net Payables-0.15%Minimum investments Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min
+PGIM India Emerging Markets Equity Fo F Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan PGIM India Emerging Markets Equity Fo F Direct Growth Equity International Very High Risk+23.43%3Y annualised-3.97% 1D1M6M1Y3Y5YAll NAV: 17 Jul '26 ₹24.44Min. for SIPNot Supported Fund size (AUM)₹1,477.58 Cr Expense ratio0.54%Rating--Holdings (3)Name Sector Instruments Assets PGIM Jennison Emerging Markets Equity Fund Unspecified Foreign Mutual Funds96.08%Others CBLOUnspecified CBLO4.07%Net Payables Unspecified Net Payables-0.15%Minimum investments Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min
 
 --- Chunk 2 ---
-. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIPNot Supported Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name3Y5Y10YAll Fund returns+25.0%+2.7%+8.3%+6.9%Category average (Equity International)+23.8%+11.0%+11.5%--Rank (Equity International)233723--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
+. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIPNot Supported Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name3Y5Y10YAll Fund returns+23.4%+1.9%+7.8%+6.6%Category average (Equity International)+23.8%+11.0%+11.5%--Rank (Equity International)233623--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
 
 --- Chunk 3 ---
 . It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
