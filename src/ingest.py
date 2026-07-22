@@ -224,6 +224,13 @@ def ingest_to_db():
     logger.info("Connecting to Vector Store...")
     vectorstore = get_vector_store()
     
+    # Wipe stale embeddings so only the latest scrape is searchable.
+    # Without this, daily runs pile up duplicate chunks with older dates,
+    # and the retriever may surface outdated information.
+    logger.info("Clearing old data from Vector Store...")
+    vectorstore.delete_collection()
+    vectorstore = get_vector_store()  # re-create the empty collection
+    
     logger.info("Adding chunks to Vector Store (this may take a while)...")
     vectorstore.add_documents(chunks)
     logger.info("Ingestion complete!")
