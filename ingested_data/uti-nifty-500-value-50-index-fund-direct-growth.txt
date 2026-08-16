@@ -1,6 +1,6 @@
 Source: https://groww.in/mutual-funds/uti-nifty-500-value-50-index-fund-direct-growth
 Total Chunks: 20
-Last Updated: 2026-08-15
+Last Updated: 2026-08-16
 ================================================================================
 
 --- Chunk 1 ---
@@ -19,7 +19,7 @@ Equity1.84%Canara Bank Financial Equity1.74%Punjab National Bank Financial Equit
 of India Financial Equity0.81%Karur Vysya Bank Ltd Financial Equity0.77%Adani Wilmar Ltd Consumer Staples Equity0.76%CESC Ltd Energy & Utilities Equity0.72%Tata Chemicals Ltd Materials Equity0.72%LIC Housing Finance Ltd Financial Equity0.71%Jaiprakash Power Ventures Ltd Energy & Utilities Equity0.66%NCC Ltd Industrials Equity0.59%Cyient Ltd Technology Equity0.55%Cholamandalam Financial Holdings Ltd Financial Equity0.54%Chambal Fertilisers & Chemicals Ltd Materials Equity0.45%Bandhan Bank Ltd Financial Equity0.42%Bank of Maharashtra Financial Equity0.38%Indraprastha Gas Ltd Energy & Utilities Equity0.34%Castrol India Ltd Materials Equity0.29%RBL Bank Ltd Financial Equity0.20%Net Current Assets Unspecified Net Current Assets0.05%See All Minimum investments Min
 
 --- Chunk 6 ---
-. for 1st investment₹1,000Min. for 2nd investment₹1,000Min. for SIP₹500Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns-0.6%+17.5%+25.6%+28.0%Category average (Equity Value Oriented)+2.6%+4.8%+19.2%--Rank (Equity Value Oriented)--51--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
+. for 1st investment₹1,000Min. for 2nd investment₹1,000Min. for SIP₹500Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns-0.6%+17.5%+25.6%+28.0%Category average (Equity Value Oriented)+2.6%+4.8%+19.2%--Rank (Equity Value Oriented)--61--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
 
 --- Chunk 7 ---
 . Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp duty A form of tax payable for the purchase or sale of an asset or security.Exit Load26 Apr 2023--Exit load, stamp duty and tax Exit load Nil Stamp duty on investment: 0.005% (from July 1st, 2020)from July 1st 2020Tax implication If you redeem within one year, returns are taxed at 20%
