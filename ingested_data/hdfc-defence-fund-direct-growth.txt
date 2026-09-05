@@ -1,10 +1,10 @@
 Source: https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth
 Total Chunks: 15
-Last Updated: 2026-09-04
+Last Updated: 2026-09-05
 ================================================================================
 
 --- Chunk 1 ---
-HDFC Defence Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan HDFC Defence Fund Direct Growth Equity Thematic Very High Risk+37.04%3Y annualised+0.56% 1D1M6M1Y3YAll NAV: 04 Sep '26 ₹31.55Min
+HDFC Defence Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan HDFC Defence Fund Direct Growth Equity Thematic Very High Risk+37.10%3Y annualised+0.31% 1D1M6M1Y3YAll NAV: 04 Sep '26 ₹31.55Min
 
 --- Chunk 2 ---
 . for SIP₹100Fund size (AUM)₹10,709.17 Cr Expense ratio0.89%Rating--Return calculator Monthly SIPMonthly investment₹5,000Over the past Total investment Would've become Historic returns Returns3 months₹15,000 ₹16,070+7.13%6 months₹30,000 ₹33,285+10.95%1 year₹60,000 ₹67,184+11.97%Holdings (26)Name Sector Instruments Assets Bharat Forge Ltd Consumer Discretionary Equity14.82%Bharat Electronics Ltd Industrials Equity14.67%Hindustan Aeronautics Ltd Industrials Equity12.37%Solar Industries India Ltd Materials Equity10.95%Astra Microwave Products Ltd Technology Equity7.16%BEML Ltd Industrials Equity4.74%Eicher Motors Ltd Consumer Discretionary Equity4.03%MTAR Technologies Ltd Industrials Equity4.01%Bharat Dynamics Ltd Industrials Equity3.80%Mazagon Dock Shipbuilders Ltd Industrials
@@ -16,7 +16,7 @@ Equity4.03%MTAR Technologies Ltd Industrials Equity4.01%Bharat Dynamics Ltd Indu
 Equity0.24%JNK India Ltd.Industrials Equity0.23%Diffusion Engineers Ltd.Industrials Equity0.20%Aequs Ltd.Technology Equity0.11%Net Payables Unspecified Net Payables-0.15%See All Minimum investments Min
 
 --- Chunk 5 ---
-. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP₹100Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns+23.6%+31.6%+37.0%+42.2%Category average (Equity Thematic)-1.9%+1.7%+16.0%--Rank (Equity Thematic)--11--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
+. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP₹100Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns+25.6%+34.0%+37.1%+42.2%Category average (Equity Thematic)-1.9%+1.7%+16.0%--Rank (Equity Thematic)--11--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
 
 --- Chunk 6 ---
 . Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp duty A form of tax payable for the purchase or sale of an asset or security.Exit Load19 May 2023Exit load of 1%, if redeemed within 1 year.Exit load, stamp duty and tax Exit load Exit load of 1%, if redeemed within 1 year.Stamp duty on investment: 0.005% (from July 1st, 2020)from July 1st 2020Tax implication If you redeem within one year, returns are taxed at 20%
