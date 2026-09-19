@@ -1,13 +1,13 @@
 Source: https://groww.in/mutual-funds/lic-mf-infrastructure-fund-direct-growth
 Total Chunks: 13
-Last Updated: 2026-09-18
+Last Updated: 2026-09-19
 ================================================================================
 
 --- Chunk 1 ---
 LIC MF Infrastructure Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan LIC MF Infrastructure Fund Direct Growth Equity Sectoral Very High Risk+23.88%3Y annualised+1.29% 1D1M6M1Y3Y5YAll NAV: 18 Sep '26 ₹63.15Min
 
 --- Chunk 2 ---
-. for SIP₹200Fund size (AUM)₹1,174.02 Cr Expense ratio1.33%Rating5Return calculator Monthly SIPOne time Monthly investment₹5,000Over the past Total investment Would've become Historic returns Returns1 year₹60,000 ₹63,338+5.56%3 years₹1,80,000 ₹2,17,983+21.10%5 years₹3,00,000 ₹5,02,341+67.45%10 years₹6,00,000 ₹17,62,802+193.80%Holdings (54)Name Sector Instruments Assets Repo Unspecified Repo5.57%Tata Motors Ltd Consumer Discretionary Equity5.06%Tata Motors Ltd Industrials Equity3.79%Phoenix Mills Ltd Real Estate Equity3.34%Larsen & Toubro Ltd Industrials Equity3.31%INDO-MIM Ltd.Industrials Equity3.26%Garware Hi-Tech Films Ltd Materials Equity3.26%Tenneco Clean Air India Ltd.Consumer Discretionary Equity2.98%KSH International Ltd.Industrials Equity2.85%Bharat Forge Ltd Consumer Discretionary
+. for SIP₹200Fund size (AUM)₹1,174.02 Cr Expense ratio1.33%Rating5Return calculator Monthly SIPOne time Monthly investment₹5,000Over the past Total investment Would've become Historic returns Returns1 year₹60,000 ₹64,062+6.77%3 years₹1,80,000 ₹2,20,630+22.57%5 years₹3,00,000 ₹5,08,430+69.48%10 years₹6,00,000 ₹17,84,386+197.40%Holdings (54)Name Sector Instruments Assets Repo Unspecified Repo5.57%Tata Motors Ltd Consumer Discretionary Equity5.06%Tata Motors Ltd Industrials Equity3.79%Phoenix Mills Ltd Real Estate Equity3.34%Larsen & Toubro Ltd Industrials Equity3.31%INDO-MIM Ltd.Industrials Equity3.26%Garware Hi-Tech Films Ltd Materials Equity3.26%Tenneco Clean Air India Ltd.Consumer Discretionary Equity2.98%KSH International Ltd.Industrials Equity2.85%Bharat Forge Ltd Consumer Discretionary
 
 --- Chunk 3 ---
 Clean Air India Ltd.Consumer Discretionary Equity2.98%KSH International Ltd.Industrials Equity2.85%Bharat Forge Ltd Consumer Discretionary Equity2.62%Tata Power Company Ltd Energy & Utilities Equity2.54%Bharat Dynamics Ltd Industrials Equity2.42%ICICI Bank Ltd Financial Equity2.35%NTPC Ltd Energy & Utilities Equity2.33%Sansera Engineering Ltd Consumer Discretionary Equity2.22%Interglobe Aviation Ltd Industrials Equity2.21%Bharti Airtel Ltd Technology Equity2.20%Maruti Suzuki India Ltd Consumer Discretionary Equity2.14%Aster DM Healthcare Ltd Healthcare Equity2.11%Hitachi Energy India Ltd Industrials Equity2.07%Mahindra Lifespace Developers Ltd Real Estate Equity2.03%JSW Infrastructure Ltd Industrials Equity2.02%Tata Steel Ltd Materials Equity2.00%Divgi Torq Transfer Systems Ltd.Consumer
