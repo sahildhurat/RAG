@@ -1,6 +1,6 @@
 Source: https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth
 Total Chunks: 15
-Last Updated: 2026-10-02
+Last Updated: 2026-10-03
 ================================================================================
 
 --- Chunk 1 ---
@@ -16,7 +16,7 @@ Technologies Ltd Industrials Equity4.60%Eicher Motors Ltd Consumer Discretionary
 Industrials Equity0.39%INDO-MIM Ltd.Industrials Equity0.25%Diffusion Engineers Ltd.Industrials Equity0.24%JNK India Ltd.Industrials Equity0.21%Aequs Ltd.Technology Equity0.11%Net Payables Unspecified Net Payables-0.04%See All Minimum investments Min
 
 --- Chunk 5 ---
-. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP₹100Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns+28.6%+22.6%+36.0%+39.3%Category average (Equity Thematic)+12.0%+3.7%+14.8%+15.1%Rank (Equity Thematic)--11--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
+. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP₹100Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns+28.6%+22.6%+36.0%+39.3%Category average (Equity Thematic)+10.7%+1.3%+13.3%+14.8%Rank (Equity Thematic)--11--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
 
 --- Chunk 6 ---
 . Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp duty A form of tax payable for the purchase or sale of an asset or security.Exit Load19 May 2023Exit load of 1%, if redeemed within 1 year.Exit load, stamp duty and tax Exit load Exit load of 1%, if redeemed within 1 year.Stamp duty on investment: 0.005% (from July 1st, 2020)from July 1st 2020Tax implication If you redeem within one year, returns are taxed at 20%
