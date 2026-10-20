@@ -1,13 +1,13 @@
 Source: https://groww.in/mutual-funds/uti-gold-etf-fof-direct-growth
 Total Chunks: 18
-Last Updated: 2026-10-19
+Last Updated: 2026-10-20
 ================================================================================
 
 --- Chunk 1 ---
-UTI Gold ETF Fo F Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan UTI Gold ETF Fo F Direct Growth Commodities Gold Very High Risk+34.26%3Y annualised+0.25% 1D1M6M1Y3YAll NAV: 19 Oct '26 ₹27.87Min. for SIPNot Supported Fund size (AUM)₹1,515.19 Cr Expense ratio0.07%Rating5Holdings (2)Name Sector Instruments Assets UTI Gold Exchange Traded Fund Unspecified Mutual Fund100.35%Net Payables Unspecified Net Payables-0.35%Minimum investments Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min
+UTI Gold ETF Fo F Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan UTI Gold ETF Fo F Direct Growth Commodities Gold Very High Risk+33.33%3Y annualised-0.33% 1D1M6M1Y3YAll NAV: 19 Oct '26 ₹27.87Min. for SIPNot Supported Fund size (AUM)₹1,515.19 Cr Expense ratio0.07%Rating5Holdings (2)Name Sector Instruments Assets UTI Gold Exchange Traded Fund Unspecified Mutual Fund100.35%Net Payables Unspecified Net Payables-0.35%Minimum investments Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min
 
 --- Chunk 2 ---
-. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIPNot Supported Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns-4.2%+14.2%+34.3%+29.6%Category average (Commodities Gold)-4.6%+17.2%+35.4%+12.7%Rank (Commodities Gold)--91--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
+. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIPNot Supported Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name6M1Y3YAll Fund returns-4.0%+11.0%+33.3%+29.4%Category average (Commodities Gold)-4.6%+17.2%+35.4%+12.7%Rank (Commodities Gold)--61--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
 
 --- Chunk 3 ---
 . It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
