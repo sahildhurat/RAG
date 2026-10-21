@@ -1,44 +1,41 @@
 Source: https://groww.in/mutual-funds/pgim-india-emerging-markets-equity-fof-direct-growth
-Total Chunks: 13
-Last Updated: 2026-10-20
+Total Chunks: 12
+Last Updated: 2026-10-21
 ================================================================================
 
 --- Chunk 1 ---
-PGIM India Emerging Markets Equity Fo F Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan PGIM India Emerging Markets Equity Fo F Direct Growth Equity International Very High Risk+23.03%3Y annualised-0.91% 1D1M6M1Y3Y5YAll NAV: 19 Oct '26 ₹24.08Min. for SIPNot Supported Fund size (AUM)₹1,414.90 Cr Expense ratio0.54%Rating--Holdings (3)Name Sector Instruments Assets PGIM Jennison Emerging Markets Equity Fund Unspecified Foreign Mutual Funds96.64%Others CBLOUnspecified CBLO3.31%Net Receivables Unspecified Net Receivables0.05%Minimum investments Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min
+PGIM India Emerging Markets Equity Fo F Direct Growth - NAV, Mutual Fund Performance & Portfolio Credit Loan against securities and Personal loan PGIM India Emerging Markets Equity Fo F Direct Growth Equity International Very High Risk+23.46%3Y annualised-0.91% 1D1M6M1Y3Y5YAll NAV: 19 Oct '26 ₹24.08Min. for SIP--Fund size (AUM)₹1,414.91 Cr Expense ratio0.55%Rating--Holdings (3)Name Sector Instruments Assets PGIM Jennison Emerging Markets Equity Fund Unspecified Foreign Mutual Funds96.64%Others CBLOUnspecified CBLO3.31%Net Receivables Unspecified Net Receivables0.05%Minimum investments Min. for 1st investment--Min. for 2nd investment--Min
 
 --- Chunk 2 ---
-. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIPNot Supported Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name3Y5Y10YAll Fund returns+23.0%+2.9%+7.5%+6.4%Category average (Equity International)+28.4%+16.4%+16.0%+12.9%Rank (Equity International)344226--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments
+. for 1st investment--Min. for 2nd investment--Min. for SIP--Understand terms Annualised returns Average of the yearly returns of a mutual fund over a given period.Absolute returns The total return of a mutual fund over a given period.Returns and rankings Annualised returns Absolute returns Name3Y5Y10YAll Fund returns+23.5%+2.3%+7.4%+6.4%Category average (Equity International)+28.8%+15.8%+15.8%+12.8%Rank (Equity International)303622--Understand terms Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
 
 --- Chunk 3 ---
-. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments
-
---- Chunk 4 ---
 . Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.Stamp duty A form of tax payable for the purchase or sale of an asset or security.Exit Load10 Jan 2022Exit load of 0.5%, if redeemed within 90 days.13 Jan 2021For units in excess of 10% of the investment,0.5% will be charged for redemption within 90 days04 Jan 2021For units in excess of 10% of the investment, 0.50% will be charged for redemption within 90 days24 Oct 2020Exit load of 1% if redeemed within 1 month.01 Jan 2013Exit load of 1% if redeemed within 12 months.Exit load
 
---- Chunk 5 ---
+--- Chunk 4 ---
 , stamp duty and tax Exit load Exit load of 0.5%, if redeemed within 90 days.Stamp duty on investment: 0.005% (from July 1st, 2020)from July 1st 2020Tax implication If you redeem within two years, returns are taxed as per your Income Tax slab
 
---- Chunk 6 ---
+--- Chunk 5 ---
 . If you redeem after two years, returns are taxed at 12.5%.Check past data Fund management APAAnandha Padmanabhan Anjeneyan Feb 2025 - Present View details Education Mr. Anjeneyan is a B
 
---- Chunk 7 ---
+--- Chunk 6 ---
 . Com, ACA, CFA, FRMExperience Prior to joining PGIM India Asset Management Pvt Ltd, he has worked with Renaissance Investment Managers Private Limited
 
---- Chunk 8 ---
+--- Chunk 7 ---
 , Canara Robeco Asset Management Company Limited.Also manages these schemes PGIM India Global Equity Opportunities Fo F Direct Growth PGIM India Emerging Markets Equity Fo F Direct Growth PGIM India Equity Savings Fund Direct Growth PGIM India Multi Asset Allocation Fund Direct Growth PGIM India Flexi Cap Fund Direct Growth PGIM India Large Cap Fund Direct Growth PGIM India Aggressive Hybrid Equity Fund Direct Growth PGIM India Balanced Advantage Fund Direct Growth PGIM India Global Select Real Estate Securities Fo F Direct Growth PGIM India Large and Mid Cap Fund Direct Growth PGIM India Retirement Fund Direct Growth PGIM India Multi Cap Fund Direct Growth PGIM India Healthcare Fund Direct Growth VSVivek Sharma Feb 2025 - Present View details Education Mr
 
---- Chunk 9 ---
+--- Chunk 8 ---
 . Sharma is a PGDM Finance Experience Prior to joining PGIM India Asset Management Pvt. Ltd. - Equity Analyst and Asst. Fund Manager, he has worked with ICICI Securities Ltd. - Equity Analyst and JP Morgan Services India Pvt
 
---- Chunk 10 ---
+--- Chunk 9 ---
 . Ltd.- Associate - Investment Banking.Also manages these schemes PGIM India Global Equity Opportunities Fo F Direct Growth PGIM India Emerging Markets Equity Fo F Direct Growth PGIM India Equity Savings Fund Direct Growth PGIM India Multi Asset Allocation Fund Direct Growth PGIM India Midcap Fund Direct Growth PGIM India Flexi Cap Fund Direct Growth PGIM India ELSS Tax Saver Fund Direct Growth PGIM India Large Cap Fund Direct Growth PGIM India Aggressive Hybrid Equity Fund Direct Growth PGIM India Small Cap Fund Direct Growth PGIM India Global Select Real Estate Securities Fo F Direct Growth PGIM India Retirement Fund Direct Growth PGIM India Multi Cap Fund Direct Growth PGIM India Healthcare Fund Direct Growth About PGIM India Emerging Markets Equity Fo F Direct Growth PGIM India
 
---- Chunk 11 ---
+--- Chunk 10 ---
 India Multi Cap Fund Direct Growth PGIM India Healthcare Fund Direct Growth About PGIM India Emerging Markets Equity Fo F Direct Growth PGIM India Emerging Markets Equity Fo F Direct Growth is a Equity Mutual Fund Scheme launched by PGIM India Mutual Fund
 
---- Chunk 12 ---
+--- Chunk 11 ---
 . This scheme was made available to investors on 13 May 2010. Anandha Padmanabhan Anjeneyan is the Current Fund Manager of PGIM India Emerging Markets Equity Fo F Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹27,127 Cr and the Latest NAV as of 19 Oct 2026 is ₹24.08. The PGIM India Emerging Markets Equity Fo F Direct Growth is rated Very High risk. Exit load of 0.5%, if redeemed within 90 days. ;Investment Objective The fund invests in equities of issuers with headquarter in a member state of the European economic and monetary union(EMU). The fund management tries to identify current & future market leaders while putting special emphasis on the companies' structural growth and earnings momentum characteristics
 
---- Chunk 13 ---
+--- Chunk 12 ---
 . Although the fund the primarily invests in large caps; small & mid caps can make up 30% of the fund assets.;Fund benchmark MSCI Emerging Markets Total Return Index Scheme Information Document(SID)Fund house PGIM India Mutual Fund Rank (total assets)#26 in India Total AUM₹27,126.69 Cr Date of Incorporation13 May 2010Phone+91 22 6159 5441 / 42 , 1800 209 7446E-mail--Websitehttps://www.pgimindiamf.com Launch Date13 May 2010Address7th Floor, Radhe Empire,Chandavarkar Road Borivali (W), Mumbai Mumbai 400092Custodian Standard Chartered Bank Registrar & Transfer Agent KFin Tech Email[email protected]Websitewww.karvymfs.com Address Karvy House, No. 46, 8-2-609/K, Avenue 4, Street No.1 Banjara Hills,Home>Mutual Funds>PGIM India Mutual Fund>PGIM India Emerging Markets Equity Fo F Direct Growth
 
